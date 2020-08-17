@@ -31,7 +31,7 @@
     "test": "./test"
   },
   "dependencies": {
-    "coffee-coverage": "<2.0.0",
+    "coffee-coverage": "2.0.0",
     "coffee-script": "<2.0.0"
   },
   "peerDependencies": {
